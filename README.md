@@ -116,3 +116,15 @@ Where the React app logic lives.
 - **`TodoItem.js`** → Renders a single todo with delete functionality.  
 
 ---
+
+# 👨‍💻 Developer  
+
+ Muhammad Subhan – Full-Stack Developer (in progress)  
+
+---
+
+# 📜 License  
+
+ This project is licensed under the Apache License 2.0 – you are free to use, modify, and distribute it under the terms of this license. See the LICENSE file for details.  
+
+ ---
